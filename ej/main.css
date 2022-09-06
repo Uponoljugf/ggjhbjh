@@ -1,0 +1,43 @@
+.vol{
+	background: #1D1D1F;
+	height: 50px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	color: #1D1D1F;
+}
+.jg{
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+	transition: 0.5s;
+	color: #f5f5f7;
+    padding: 0;
+    max-width: none;
+    margin-left: 40px;
+ font-family: 'Anton', sans-serif;
+ font-family: 'Inter', sans-serif;
+
+}
+.jg:hover{
+	font-size: 20px;
+	text-align: center;
+	margin-right: 40px;
+	color: grey;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.logo{
+	margin-top: -22px;
+	width: 40px;
+	height:40px;
+	right: 1300px;
+	position: absolute;
+}
+.block_img{
+
+}
+.psp
